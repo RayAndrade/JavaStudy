@@ -1,11 +1,11 @@
 public class Labrador implements Animal{
     @Override
     public String getSpecies() {
-        return "Persian Cat";
+        return "Labrador";
     }
 
     @Override
     public String makeSound() {
-        return "Meows";
+        return "Barks";
     }
 }
