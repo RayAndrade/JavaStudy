@@ -1,7 +1,12 @@
 # Ignore all .log files
-*.log
-*.odp
+
 *.mp4
+*.mpg
+*.odp
+*.mdj
+*.png
+
+*.log
 
 # Ignore node_modules directory
 node_modules/
