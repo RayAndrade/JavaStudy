@@ -27,3 +27,35 @@ Check out TheRayCode. ORG and . COM
 leave a comment, Subscribe and Like
 
 Be good TheRayCode is AWESOME
+
+
+
+Creational Patterns 0:31
+Singleton
+Factory
+Abstract Factory
+Builder
+Prototype
+
+Structural Patterns 1:05
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+
+Behavioral Patterns 1:59
+Chain Of Responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template
+Visitor
+
