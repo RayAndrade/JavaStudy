@@ -1,0 +1,16 @@
+Creational Design Pattern Factory using Java
+
+🚀 Master the Factory Design Pattern in Java! 🚀
+
+Understanding design patterns is essential for writing scalable and maintainable code. In my latest YouTube video, I break down the Factory Pattern—one of the most widely used Creational Design Patterns in software development.
+
+🎯 What’s Inside?
+✅ Why use the Factory Pattern? (Real-world use cases)
+✅ UML Diagram – A clear breakdown of how it works
+✅ Java Code Example – See it in action!
+https://github.com/RayAndrade/TheRayCode/blob/main/Java/Creational/Factory/README.md
+✅ SWOT Analysis – Strengths, Weaknesses, Opportunities & Threats
+
+If you’re a developer looking to enhance your object-oriented programming skills, this video is for you! 🚀
+
+Let’s discuss! Have you used the Factory Pattern before? How has it helped your projects? Drop your thoughts in the comments! 👇
