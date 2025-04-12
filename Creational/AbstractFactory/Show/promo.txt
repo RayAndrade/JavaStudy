@@ -1,0 +1,27 @@
+Here’s a LinkedIn post you can use to promote your YouTube video on the **Abstract Factory** design pattern in Java. It’s crafted to catch attention, provide value, and encourage viewers to click:
+
+
+Creational Design Pattern Abstract Factory using Java
+---
+
+🚀 **Master the Abstract Factory Design Pattern in Java!** 🎥
+
+Are you teaching or learning design patterns? The **Abstract Factory** pattern is a core part of the *Creational* family—and a must-know for writing flexible, scalable object-oriented code.
+
+In my latest YouTube video, I break it down step by step:
+
+✅ Why use Abstract Factory  
+📊 SWOT analysis (Strengths, Weaknesses, Opportunities, Threats)  
+📐 UML diagram explained  
+💻 Java code walkthrough with a real-world example
+
+Whether you're a student, educator, or dev leveling up your design pattern game, this video is for you!
+
+📺 Watch here: [insert YouTube link]  
+🔁 Like & Share if you find it helpful!
+
+#Java #DesignPatterns #AbstractFactory #CreationalPatterns #SoftwareEngineering #Coding #OOP #UML #JavaProgramming #YouTubeTutorial
+
+---
+
+Would you like a shorter version, or one tailored more toward educators or students?

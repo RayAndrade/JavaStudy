@@ -1,0 +1,25 @@
+🚀 Just Launched: Abstract Factory Pattern in Java – Full Example + Video! 🎥💻
+
+Are you a first-year CS student, an educator, or someone diving into Design Patterns?
+
+I've just published a complete, beginner-friendly Java implementation of the Abstract Factory design pattern – based exactly on the structure from the iconic Gang of Four book.
+
+✅ Clear, commented code
+
+ ✅ Easy-to-follow file creation order
+
+ ✅ Explanations of each class/interface
+
+ ✅ Full source on a webpage
+
+ ✅ 📹 Plus a video walkthrough to tie it all together!
+
+Whether you're learning, teaching, or simply refreshing your knowledge, this resource is made to help you grasp one of the most foundational Creational patterns in object-oriented programming.
+
+🔗 Explore the web page with full code: https://www.TheRayCode.org/2025/03/java-creational-abstractfactory.html
+
+ ▶️ Watch the full video here: https://youtu.be/W_bA6eB3dhE?si=mdSFdtaD4wDd6j_d 
+
+Let me know what you think—and feel free to share it with your students or teammates who could use a clear walkthrough of the Abstract Factory pattern!
+
+#Java #DesignPatterns #AbstractFactory #GangOfFour #SoftwareEngineering #CodingEducation #ObjectOrientedDesign #CleanCode #JavaForBeginners #CSstudents #YouTubeEducation
