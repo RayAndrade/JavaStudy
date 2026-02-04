@@ -2,7 +2,7 @@
 **Java Adapter Design Pattern**
 
 **Adapter Design Pattern**:
-The Adapter Design Pattern is classified among the structural design patterns. 
+The Adapter Design Pattern is classified among the Structural design patterns. 
 
 Its main role is to act as a bridge between two incompatible interfaces, allowing them to work together. 
 
