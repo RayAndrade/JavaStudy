@@ -1,0 +1,19 @@
+#!/bin/bash
+
+AUDIO_DIR="./sound"
+BUFFER=0.50
+
+echo "Slide timing report"
+echo
+
+for file in $AUDIO_DIR/*.wav
+do
+    duration=$(ffprobe -v error -show_entries format=duration \
+    -of default=noprint_wrappers=1:nokey=1 "$file")
+
+    slide_time=$(awk "BEGIN {printf \"%.2f\", $duration + $BUFFER}")
+
+    printf "%-12s audio: %6.2f sec   slide: %6.2f sec\n" \
+    "$(basename "$file")" "$duration" "$slide_time"
+
+done
